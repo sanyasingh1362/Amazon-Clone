@@ -8,5 +8,5 @@ This project is a simple clone of the Amazon website created using HTML and CSS.
 4> Footer: Mimics the Amazon footer with multiple columns of links for different categories like Get to Know Us, Connect with Us, Make Money with Us, and Let Us Help You.
 
 # Project Structure
-index.html: Contains the HTML structure of the Amazon clone.
-styles.css: Contains the CSS styling for the Amazon clone.
+-> index.html: Contains the HTML structure of the Amazon clone.
+-> style.css: Contains the CSS styling for the Amazon clone.
